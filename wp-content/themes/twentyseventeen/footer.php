@@ -15,7 +15,7 @@
 ?>
     <div id="menu_footer" class="hidden-xs hidden-xs">
         <div class="container">
-        <?php wp_nav_menu(array('theme_location' => 'MainMenu', 'menu_class' => 'menu_footer',)); ?>
+        <?php wp_nav_menu(array('theme_location' => 'FooterMenu', 'menu_class' => 'menu_footer',)); ?>
         </div>
     </div>
     <footer id="wrapper_footer">

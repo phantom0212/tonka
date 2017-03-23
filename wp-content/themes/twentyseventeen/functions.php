@@ -61,7 +61,7 @@ function twentyseventeen_setup() {
 	// This theme uses wp_nav_menu() in two locations.
 	register_nav_menus( array(
 		'MainMenu'    => __( 'Main Menu', 'twentyseventeen' ),
-		'Footer' => __( 'Footer Menu', 'twentyseventeen' ),
+		'FooterMenu' => __( 'Footer Menu', 'twentyseventeen' ),
 	) );
 
 	/*
@@ -356,12 +356,6 @@ function twentyseventeen_excerpt_more( $link ) {
 		return $link;
 	}
 
-	$link = sprintf( '<p class="link-more"><a href="%1$s" class="more-link">%2$s</a></p>',
-		esc_url( get_permalink( get_the_ID() ) ),
-		/* translators: %s: Name of current post */
-		sprintf( __( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'twentyseventeen' ), get_the_title( get_the_ID() ) )
-	);
-	return ' &hellip; ' . $link;
 }
 add_filter( 'excerpt_more', 'twentyseventeen_excerpt_more' );
 
@@ -569,7 +563,7 @@ require get_parent_theme_file_path( '/inc/icon-functions.php' );
 //}
 //
 //add_action('wp_enqueue_scripts', 'load_style_and_script');
-CONST KIENTHUCHANLAM = 2;
-CONST KIENTHUCBENHHOC = 3;
-CONST XUONGKHOP = 4;
-CONST PHONGNGUA = 6;
+CONST KIENTHUCHANLAM = 1;
+CONST KIENTHUCBENHHOC = 2;
+CONST XUONGKHOP = 3;
+CONST PHONGNGUA = 4;
