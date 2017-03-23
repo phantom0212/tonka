@@ -572,3 +572,4 @@ require get_parent_theme_file_path( '/inc/icon-functions.php' );
 CONST KIENTHUCHANLAM = 2;
 CONST KIENTHUCBENHHOC = 3;
 CONST XUONGKHOP = 4;
+CONST PHONGNGUA = 6;

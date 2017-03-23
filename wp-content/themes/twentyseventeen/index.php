@@ -345,45 +345,41 @@ get_header(); ?>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 col-tn-12">
+                <?php global $post;
+                $args = array('posts_per_page' => 3, 'order' => 'ASC', 'orderby' => 'title', 'category' => PHONGNGUA);
+                $category = get_term(PHONGNGUA, 'category');
+                $category_link = get_category_link(PHONGNGUA); ?>
                 <div id="box_phongngua" class="item_box_col_right space_bottom_20 width_common">
                     <div class="title_box">
-                        <h3><a href="#">phòng ngừa - điều trị</a></h3>
-                        <div class="icon_title"><img src="images/icon/ico_dieutri.png" alt=""/></div>
+                        <h3><a href="<?php echo esc_url($category_link); ?>"><?php echo $category->name; ?></a></h3>
+                        <div class="icon_title"><img
+                                    src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_dieutri.png"
+                                    alt=""/></div>
                     </div>
                     <div class="content_box">
                         <div class="list_news_box_right ">
-                            <div class="item_box_right width_common">
-                                <div class="block_news width_common">
-                                    <div class="block_thumb_news">
-                                        <a class="thunb_image thumb_5x3" href="#"><img alt=""
-                                                                                       src="images/graphics/img_370x222.jpg"></a>
-                                    </div>
-                                    <h2 class="title_box_news title_normal">
-                                        <a href="#">Nguy cơ bị viêm gan cấp do sử dụng quá nhiều rượu bia</a>
-                                    </h2>
+                            <?php $postslist = get_posts($args);
+                            $stt = 0; ?>
+                            <?php foreach ($postslist as $post) :
+                                setup_postdata($post);
+                                ?>
+                                <div class="item_box_right width_common">
+                                    <div class="block_news width_common">
+                                        <div class="block_thumb_news">
+                                            <a class="thunb_image thumb_5x3"
+                                               href="<?php the_permalink() ?>"><?php the_post_thumbnail() ?></a>
+                                        </div>
+                                        <h2 class="title_box_news title_normal">
+                                            <a href="<?php the_permalink() ?>"><?php the_title() ?></a>
+                                        </h2>
 
-                                </div>
-                                <div class="block_news width_common">
-                                    <div class="block_thumb_news">
-                                        <a class="thunb_image thumb_5x3" href="#"><img alt=""
-                                                                                       src="images/graphics/img_370x222.jpg"></a>
                                     </div>
-                                    <h2 class="title_box_news title_normal">
-                                        <a href="#">Nguy cơ bị viêm gan cấp do sử dụng quá nhiều rượu bia</a>
-                                    </h2>
-
                                 </div>
-                                <div class="block_news width_common">
-                                    <div class="block_thumb_news">
-                                        <a class="thunb_image thumb_5x3" href="#"><img alt=""
-                                                                                       src="images/graphics/img_370x222.jpg"></a>
-                                    </div>
-                                    <h2 class="title_box_news title_normal">
-                                        <a href="#">Nguy cơ bị viêm gan cấp do sử dụng quá nhiều rượu bia</a>
-                                    </h2>
 
-                                </div>
-                            </div>
+                                <?php
+                                $stt++;
+                            endforeach;
+                            wp_reset_postdata(); ?>
                             <div class="clearfix"></div>
                         </div>
 

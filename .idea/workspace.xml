@@ -18,27 +18,25 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="472" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="359" column="58" lean-forward="true" selection-start-line="359" selection-start-column="58" selection-end-line="359" selection-end-column="58" />
               <folding>
                 <element signature="e#686#3377#0#HTML" expanded="false" />
                 <element signature="e#869#3350#0#HTML" expanded="false" />
-                <element signature="e#3711#6100#0#HTML" expanded="false" />
                 <element signature="e#6438#22184#0#HTML" expanded="false" />
                 <element signature="e#7528#11144#0#HTML" expanded="false" />
                 <element signature="e#11177#14793#0#HTML" expanded="false" />
                 <element signature="e#14826#18442#0#HTML" expanded="false" />
                 <element signature="e#18475#22091#0#HTML" expanded="false" />
-                <element signature="e#22239#29848#0#HTML" expanded="false" />
-                <element signature="e#29518#29524#0#HTML" expanded="true" />
-                <element signature="e#29597#29603#0#HTML" expanded="true" />
-                <element signature="e#29872#30112#0#HTML" expanded="false" />
+                <element signature="e#29040#29046#0#HTML" expanded="true" />
+                <element signature="e#29119#29125#0#HTML" expanded="true" />
+                <element signature="e#29394#29634#0#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -61,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sknn.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sknn.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="487" column="12" lean-forward="false" selection-start-line="487" selection-start-column="1" selection-end-line="487" selection-end-column="12" />
+            <state relative-caret-position="313">
+              <caret line="1040" column="14" lean-forward="false" selection-start-line="1040" selection-start-column="14" selection-end-line="1040" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -96,8 +94,8 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="573" column="15" lean-forward="false" selection-start-line="573" selection-start-column="15" selection-end-line="573" selection-end-column="15" />
+            <state relative-caret-position="654">
+              <caret line="574" column="19" lean-forward="false" selection-start-line="574" selection-start-column="19" selection-end-line="574" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -121,10 +119,10 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" />
         <option value="$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css" />
       </list>
     </option>
   </component>
@@ -170,218 +168,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twentyseventeen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twentyseventeen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twentyseventeen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twentyseventeen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="graphics" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twentyseventeen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonka" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twentyseventeen" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="graphics" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -408,12 +194,12 @@
       <updated>1490102061847</updated>
       <workItem from="1490102063154" duration="5146000" />
       <workItem from="1490146101608" duration="164000" />
-      <workItem from="1490162780473" duration="17086000" />
+      <workItem from="1490162780473" duration="20026000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22396000" />
+    <option name="totallyTimeSpent" value="25336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -475,16 +261,14 @@
           <folding>
             <element signature="e#686#3377#0#HTML" expanded="false" />
             <element signature="e#869#3350#0#HTML" expanded="false" />
-            <element signature="e#3711#6100#0#HTML" expanded="false" />
             <element signature="e#6438#22184#0#HTML" expanded="false" />
             <element signature="e#7528#11144#0#HTML" expanded="false" />
             <element signature="e#11177#14793#0#HTML" expanded="false" />
             <element signature="e#14826#18442#0#HTML" expanded="false" />
             <element signature="e#18475#22091#0#HTML" expanded="false" />
-            <element signature="e#22239#29848#0#HTML" expanded="false" />
-            <element signature="e#29518#29524#0#HTML" expanded="true" />
-            <element signature="e#29597#29603#0#HTML" expanded="true" />
-            <element signature="e#29872#30112#0#HTML" expanded="false" />
+            <element signature="e#29040#29046#0#HTML" expanded="true" />
+            <element signature="e#29119#29125#0#HTML" expanded="true" />
+            <element signature="e#29394#29634#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -512,16 +296,14 @@
           <folding>
             <element signature="e#686#3377#0#HTML" expanded="false" />
             <element signature="e#869#3350#0#HTML" expanded="false" />
-            <element signature="e#3711#6100#0#HTML" expanded="false" />
             <element signature="e#6438#22184#0#HTML" expanded="false" />
             <element signature="e#7528#11144#0#HTML" expanded="false" />
             <element signature="e#11177#14793#0#HTML" expanded="false" />
             <element signature="e#14826#18442#0#HTML" expanded="false" />
             <element signature="e#18475#22091#0#HTML" expanded="false" />
-            <element signature="e#22239#29848#0#HTML" expanded="false" />
-            <element signature="e#29518#29524#0#HTML" expanded="true" />
-            <element signature="e#29597#29603#0#HTML" expanded="true" />
-            <element signature="e#29872#30112#0#HTML" expanded="false" />
+            <element signature="e#29040#29046#0#HTML" expanded="true" />
+            <element signature="e#29119#29125#0#HTML" expanded="true" />
+            <element signature="e#29394#29634#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -546,22 +328,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="487" column="12" lean-forward="false" selection-start-line="487" selection-start-column="1" selection-end-line="487" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="573" column="15" lean-forward="false" selection-start-line="573" selection-start-column="15" selection-end-line="573" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,27 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="472" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
-          <folding>
-            <element signature="e#686#3377#0#HTML" expanded="false" />
-            <element signature="e#869#3350#0#HTML" expanded="false" />
-            <element signature="e#3711#6100#0#HTML" expanded="false" />
-            <element signature="e#6438#22184#0#HTML" expanded="false" />
-            <element signature="e#7528#11144#0#HTML" expanded="false" />
-            <element signature="e#11177#14793#0#HTML" expanded="false" />
-            <element signature="e#14826#18442#0#HTML" expanded="false" />
-            <element signature="e#18475#22091#0#HTML" expanded="false" />
-            <element signature="e#22239#29848#0#HTML" expanded="false" />
-            <element signature="e#29518#29524#0#HTML" expanded="true" />
-            <element signature="e#29597#29603#0#HTML" expanded="true" />
-            <element signature="e#29872#30112#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -625,6 +370,41 @@
             <element signature="e#6#475#0#PHP" expanded="false" />
             <element signature="e#3538#6027#0#HTML" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="574" column="19" lean-forward="false" selection-start-line="574" selection-start-column="19" selection-end-line="574" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="359" column="58" lean-forward="true" selection-start-line="359" selection-start-column="58" selection-end-line="359" selection-end-column="58" />
+          <folding>
+            <element signature="e#686#3377#0#HTML" expanded="false" />
+            <element signature="e#869#3350#0#HTML" expanded="false" />
+            <element signature="e#6438#22184#0#HTML" expanded="false" />
+            <element signature="e#7528#11144#0#HTML" expanded="false" />
+            <element signature="e#11177#14793#0#HTML" expanded="false" />
+            <element signature="e#14826#18442#0#HTML" expanded="false" />
+            <element signature="e#18475#22091#0#HTML" expanded="false" />
+            <element signature="e#29040#29046#0#HTML" expanded="true" />
+            <element signature="e#29119#29125#0#HTML" expanded="true" />
+            <element signature="e#29394#29634#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="1040" column="14" lean-forward="false" selection-start-line="1040" selection-start-column="14" selection-end-line="1040" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
