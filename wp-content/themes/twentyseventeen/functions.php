@@ -563,7 +563,8 @@ require get_parent_theme_file_path( '/inc/icon-functions.php' );
 //}
 //
 //add_action('wp_enqueue_scripts', 'load_style_and_script');
-CONST KIENTHUCHANLAM = 1;
-CONST KIENTHUCBENHHOC = 2;
-CONST XUONGKHOP = 3;
-CONST PHONGNGUA = 4;
+CONST KIENTHUCHANLAM = 2;
+CONST KIENTHUCBENHHOC = 3;
+CONST XUONGKHOP = 4;
+CONST PHONGNGUA = 6;
+CONST KHOVIDEO = 10;
