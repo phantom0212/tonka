@@ -13,6 +13,20 @@ $(function(){
 		animationLoop: true,		
 		pagination:true
 	});
+	$('#box_tinxemnhieu_folder .flexslider').flexslider({
+		animation: "slide",
+		animationLoop: true,		
+		pagination:true,
+		itemWidth: 200,
+		itemMargin: 20
+	});
+	$('#box_video_khac .flexslider').flexslider({
+		animation: "slide",
+		animationLoop: true,		
+		pagination:true,
+		itemWidth: 200,
+		itemMargin: 20
+	});
 	$('.hamber').click(function(){
 		
 		if($('.block_menu').css('display') == 'none'){

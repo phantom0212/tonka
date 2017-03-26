@@ -61,6 +61,10 @@
 
     </footer>
 </div>
+
+<?php wp_footer(); ?>
+  <script src="<?php  echo get_theme_file_uri(); ?>/assets/js/jquery-2.1.4.min.js"></script>
+    <script src="<?php  echo get_theme_file_uri(); ?>/assets/bootstrap/js/bootstrap.min.js"></script>
 <script language="javascript" type="text/javascript" src="<?php  echo get_theme_file_uri(); ?>/assets/js/mouseWhell.js"></script>
 <script src="<?php  echo get_theme_file_uri(); ?>/assets/js/jquery.flexslider-min.js"></script>
 <script src="<?php  echo get_theme_file_uri(); ?>/assets/js/common.js"></script>
@@ -69,8 +73,5 @@
 
     })
 </script>
-<?php wp_footer(); ?>
-  <script src="<?php  echo get_theme_file_uri(); ?>/assets/js/jquery-2.1.4.min.js"></script>
-    <script src="<?php  echo get_theme_file_uri(); ?>/assets/bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
