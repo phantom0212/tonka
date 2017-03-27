@@ -2,67 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9b0088-92bb-49fe-8e86-8e9a8ad1c2fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_video.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tonka.iml" afterPath="$PROJECT_DIR$/.idea/tonka.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_faq.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/archive-question-filter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/archive-question-filter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/archive-question.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/archive-question.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/captcha-form.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/captcha-form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/content-question.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/content-question.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/question-submit-form.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/question-submit-form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/single-question.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/single-question.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/bootstrap/js/npm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_list.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/common.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery-2.1.4.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery-2.1.4.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery.flexslider-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/owl.carousel.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/searchform.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/searchform.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,15 +36,9 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="130" column="47" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="47" />
-              <folding>
-                <element signature="e#686#3485#0#HTML" expanded="false" />
-                <element signature="e#3819#6208#0#HTML" expanded="false" />
-                <element signature="e#10950#13131#0#HTML" expanded="false" />
-                <element signature="e#13149#14051#0#HTML" expanded="false" />
-                <element signature="e#14347#15430#0#HTML" expanded="false" />
-              </folding>
+            <state relative-caret-position="124">
+              <caret line="241" column="80" selection-start-line="241" selection-start-column="37" selection-end-line="241" selection-end-column="80" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,8 +46,18 @@
       <file leaf-file-name="category.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="93" column="54" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="54" />
+            <state relative-caret-position="272">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-474">
+              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -110,59 +66,9 @@
       <file leaf-file-name="404.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="29" column="104" selection-start-line="29" selection-start-column="104" selection-end-line="29" selection-end-column="104" />
+            <state relative-caret-position="391">
+              <caret line="41" column="81" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="81" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sknn.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25024">
-              <caret line="1472" column="1" selection-start-line="1472" selection-start-column="1" selection-end-line="1472" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#197#0#PHP" expanded="true" />
-                <element signature="e#12584#12590#0#HTML" expanded="true" />
-                <element signature="e#13914#15862#0#HTML" expanded="false" />
-                <element signature="e#15126#15132#0#HTML" expanded="true" />
-                <element signature="e#15301#15307#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_video.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_video.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-              <folding>
-                <element signature="e#3721#3727#0#HTML" expanded="true" />
-                <element signature="e#6392#6398#0#HTML" expanded="true" />
-                <element signature="e#6506#6512#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -170,8 +76,38 @@
       <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+            <state relative-caret-position="362">
+              <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template_video.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_video.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template_contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template_faq.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_faq.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="29" column="68" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -180,17 +116,17 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="508" column="105" selection-start-line="508" selection-start-column="99" selection-end-line="508" selection-end-column="105" />
+            <state relative-caret-position="415">
+              <caret line="712" column="42" selection-start-line="712" selection-start-column="42" selection-end-line="712" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
+            <state relative-caret-position="1071">
               <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
               <folding />
             </state>
@@ -218,21 +154,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/index.php" />
-        <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/search.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/searchform.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_contact.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_video.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_faq.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php" />
       </list>
     </option>
   </component>
@@ -274,7 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -431,13 +368,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Scuti/testapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
@@ -509,17 +446,18 @@
       <workItem from="1490431185360" duration="9939000" />
       <workItem from="1490521334169" duration="2107000" />
       <workItem from="1490524009563" duration="5744000" />
+      <workItem from="1490624937769" duration="4230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55131000" />
+    <option name="totallyTimeSpent" value="59361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22693998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20937042" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -576,14 +514,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="104" selection-start-line="29" selection-start-column="104" selection-end-line="29" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
@@ -614,10 +544,6 @@
           <caret line="119" column="6" selection-start-line="119" selection-start-column="6" selection-end-line="119" selection-end-column="6" />
           <folding>
             <element signature="e#6#197#0#PHP" expanded="true" />
-            <element signature="e#12584#12590#0#HTML" expanded="true" />
-            <element signature="e#13914#15862#0#HTML" expanded="false" />
-            <element signature="e#15126#15132#0#HTML" expanded="true" />
-            <element signature="e#15301#15307#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -642,13 +568,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5882">
           <caret line="360" column="101" selection-start-line="360" selection-start-column="101" selection-end-line="360" selection-end-column="101" />
-          <folding>
-            <element signature="e#686#3485#0#HTML" expanded="false" />
-            <element signature="e#3819#6208#0#HTML" expanded="false" />
-            <element signature="e#10950#13131#0#HTML" expanded="false" />
-            <element signature="e#13149#14051#0#HTML" expanded="false" />
-            <element signature="e#14347#15430#0#HTML" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -708,10 +628,6 @@
           <caret line="119" column="6" selection-start-line="119" selection-start-column="6" selection-end-line="119" selection-end-column="6" />
           <folding>
             <element signature="e#6#197#0#PHP" expanded="true" />
-            <element signature="e#12584#12590#0#HTML" expanded="true" />
-            <element signature="e#13914#15862#0#HTML" expanded="false" />
-            <element signature="e#15126#15132#0#HTML" expanded="true" />
-            <element signature="e#15301#15307#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -736,13 +652,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7157">
           <caret line="421" column="41" selection-start-line="421" selection-start-column="41" selection-end-line="421" selection-end-column="41" />
-          <folding>
-            <element signature="e#686#3485#0#HTML" expanded="false" />
-            <element signature="e#3819#6208#0#HTML" expanded="false" />
-            <element signature="e#10950#13131#0#HTML" expanded="false" />
-            <element signature="e#13149#14051#0#HTML" expanded="false" />
-            <element signature="e#14347#15430#0#HTML" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -801,13 +711,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#686#3485#0#HTML" expanded="false" />
-            <element signature="e#3819#6208#0#HTML" expanded="false" />
-            <element signature="e#10950#13131#0#HTML" expanded="false" />
-            <element signature="e#13149#14051#0#HTML" expanded="false" />
-            <element signature="e#14347#15430#0#HTML" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -830,13 +734,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#686#3485#0#HTML" expanded="false" />
-            <element signature="e#3819#6208#0#HTML" expanded="false" />
-            <element signature="e#10950#13131#0#HTML" expanded="false" />
-            <element signature="e#13149#14051#0#HTML" expanded="false" />
-            <element signature="e#14347#15430#0#HTML" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -870,13 +768,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/graphics/img_370x222.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/js/common.js">
@@ -918,14 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/sknn.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25024">
@@ -934,90 +817,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_video.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-          <folding>
-            <element signature="e#3721#3727#0#HTML" expanded="true" />
-            <element signature="e#6392#6398#0#HTML" expanded="true" />
-            <element signature="e#6506#6512#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="29" column="104" selection-start-line="29" selection-start-column="104" selection-end-line="29" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="130" column="47" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="47" />
-          <folding>
-            <element signature="e#686#3485#0#HTML" expanded="false" />
-            <element signature="e#3819#6208#0#HTML" expanded="false" />
-            <element signature="e#10950#13131#0#HTML" expanded="false" />
-            <element signature="e#13149#14051#0#HTML" expanded="false" />
-            <element signature="e#14347#15430#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="93" column="54" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
+        <state relative-caret-position="4624">
           <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
           <folding>
             <element signature="e#6#197#0#PHP" expanded="true" />
-            <element signature="e#12584#12590#0#HTML" expanded="true" />
-            <element signature="e#13914#15862#0#HTML" expanded="false" />
-            <element signature="e#15126#15132#0#HTML" expanded="true" />
-            <element signature="e#15301#15307#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
+        <state relative-caret-position="714">
           <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="508" column="105" selection-start-line="508" selection-start-column="99" selection-end-line="508" selection-end-column="105" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
+        <state relative-caret-position="1071">
           <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="241" column="80" selection-start-line="241" selection-start-column="37" selection-end-line="241" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="41" column="81" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_faq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-474">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="712" column="42" selection-start-line="712" selection-start-column="42" selection-end-line="712" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
           <folding />
         </state>
       </provider>

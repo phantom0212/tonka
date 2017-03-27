@@ -710,7 +710,7 @@ function getChildCate($id_cate){
     return $term_children;
 }
 
-
+add_filter('widget_text', 'do_shortcode');
 
 CONST KIENTHUCHANLAM = 2;
 CONST KIENTHUCBENHHOC = 3;

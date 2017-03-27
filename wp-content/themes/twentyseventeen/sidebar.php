@@ -132,35 +132,18 @@ $category_link = get_category_link(PHONGNGUA); ?>
 <div id="box_tuvan" class="item_box_col_right space_bottom_20 width_common">
     <div class="title_box">
         <h3><a href="#">Hỏi chuyên gia</a></h3>
-        <div class="icon_title"><img src="images/icon/ico_tuvan.png" alt="" /></div>
+        <div class="icon_title"><img
+                src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_tuvan.png" alt=""/>
+        </div>
     </div>
 
     <div class="content_box_common width_common">
         <div class="list_tuvan width_common">
-            <div class="item_tuvan width_common">
-                <div class="user_tuvan"><i class="fa fa-question-circle-o" aria-hidden="true"></i> <strong class="txt_666">Hoàng Phương</strong> - <span class="txt_aaa">viêm khớp</span></div>
-                <div class="block_question">
-                    Mẹ tôi năm nay 47t, gần đây mẹ hay bị ra mồ hôi và người nóng bừng lên làm mẹ mệt mỏi và khó ngủ. Em có thể mua Amanda cho mẹ uống lâu dài đc không?
-                </div>
-                <div class="block_answear">
-                    <i class="fa fa-caret-up"></i>
-                    <i>Mẹ tôi năm nay 47t, gần đây mẹ hay bị ra mồ hôi và người nóng bừng lên làm mẹ mệt mỏi và khó ngủ...</i> <a href="#" class="txt_999">Xem đầy đủ</a>
-                    <div class="author_answear">TS.PGS Nguyễn Văn A</div>
-                </div>
-            </div>
-            <div class="item_tuvan width_common">
-                <div class="user_tuvan"><i class="fa fa-question-circle-o" aria-hidden="true"></i> <strong class="txt_666">Hoàng Phương</strong> - <span class="txt_aaa">viêm khớp</span></div>
-                <div class="block_question">
-                    Mẹ tôi năm nay 47t, gần đây mẹ hay bị ra mồ hôi và người nóng bừng lên làm mẹ mệt mỏi và khó ngủ. Em có thể mua Amanda cho mẹ uống lâu dài đc không?
-                </div>
-                <div class="block_answear">
-                    <i class="fa fa-caret-up"></i>
-                    <i>Mẹ tôi năm nay 47t, gần đây mẹ hay bị ra mồ hôi và người nóng bừng lên làm mẹ mệt mỏi và khó ngủ...</i> <a href="#" class="txt_999">Xem đầy đủ</a>
-                    <div class="author_answear">TS.PGS Nguyễn Văn A</div>
-                </div>
-            </div>
+            <?php echo do_shortcode('[dwqa-list-questions]'); ?>
         </div>
-        <div class="block_txt_datcauhoi text-center"><a href="#" class="text-uppercase txt_16 txt_site"><b>đặt câu hỏi</b></a></div>
+        <div class="block_txt_datcauhoi text-center"><a href="#"
+                                                        class="text-uppercase txt_16 txt_site"><b>đặt
+                    câu hỏi</b></a></div>
     </div>
 </div>
 

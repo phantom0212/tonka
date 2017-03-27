@@ -19,7 +19,7 @@ get_header(); ?>
 					<div class="width_common" id="search_404">
 						<div class="block_404">
 							<div class="title_404">
-								<p class="txt_404"><img src="images/graphics/bg_title_404.gif" alt="">&nbsp; <strong> Không tìm thấy</strong> đường dẫn này
+								<p class="txt_404"><img src="<?php echo get_theme_file_uri(); ?>/assets/images/graphics/bg_title_404.gif" alt="">&nbsp; <strong> Không tìm thấy</strong> đường dẫn này
 								</p>
 								<p class="txt_center">Bạn có thể truy cập vào <a href="#">trang chủ</a> hoặc sử dụng ô dưới đây để tìm kiếm</p>
 							</div>
@@ -39,7 +39,7 @@ get_header(); ?>
 				</div>
 			</div>
 			<div class="block_banner_960x90 width_common text-center space_bottom_20">
-				<a href="#"><img src="images/graphics/img_960x90.jpg" alt="" /></a>
+				<a href="#"><img src="<?php echo get_theme_file_uri(); ?>/assets/images/graphics/img_960x90.jpg" alt="" /></a>
 			</div>
 		</div>
 	</div>

@@ -22,7 +22,8 @@ get_header(); ?>
             <div class="row">
                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-6 col-tn-12">
                     <div id="box_moinhat" class="space_bottom_10 box_common_site">
-                        <div class="title_box"><h3><a href="<?php echo get_site_url() ?>/category/bai-viet-moi-nhat">Bài viết mới nhất</a></h3></div>
+                        <div class="title_box"><h3><a href="<?php echo get_site_url() ?>/category/bai-viet-moi-nhat">Bài
+                                    viết mới nhất</a></h3></div>
                         <div class="content_box">
                             <?php $the_query = new WP_Query('posts_per_page=3');
                             $stt = 0; ?>
@@ -44,8 +45,8 @@ get_header(); ?>
                                 <div class="item_sub_news">
                                     <div class="block_thumb_news">
                                         <a class="thunb_image thumb_5x3" href="<?php echo get_permalink() ?>"><img
-                                                    alt=""
-                                                    src="<?php the_post_thumbnail() ?>"></a>
+                                                alt=""
+                                                src="<?php the_post_thumbnail() ?>"></a>
                                     </div>
                                     <h2 class="title_box_news">
                                         <a href="<?php echo get_permalink() ?>"><?php the_title() ?></a>
@@ -59,7 +60,8 @@ get_header(); ?>
                                 <?php endif ?>
                             </div>
                             <div class="block_xemthem text-right">
-                                <a href="<?php echo get_site_url() ?>/category/bai-viet-moi-nhat" class="txt_666"><i class="fa fa-caret-down"></i> Xem thêm</a>
+                                <a href="<?php echo get_site_url() ?>/category/bai-viet-moi-nhat" class="txt_666"><i
+                                        class="fa fa-caret-down"></i> Xem thêm</a>
                             </div>
                         </div>
                     </div>
@@ -71,7 +73,7 @@ get_header(); ?>
                         <div class="title_box_common">
                             <h3 class="wap_title_box relative">
                                 <div class="icon_title"><img
-                                            src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_non.png">
+                                        src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_non.png">
                                 </div>
                                 <a class="text_title_box"
                                    href="<?php echo esc_url($category_link); ?>"><?php echo $category->name; ?></a>
@@ -113,12 +115,12 @@ get_header(); ?>
                     <?php global $post;
                     $args = array('posts_per_page' => 4, 'order' => 'ASC', 'orderby' => 'title', 'category' => KIENTHUCBENHHOC);
                     $category = get_term(KIENTHUCBENHHOC, 'category');
-                    $link_cate = get_category_parents_custom( KIENTHUCBENHHOC, true, '' ); ?>
+                    $link_cate = get_category_parents_custom(KIENTHUCBENHHOC, true, ''); ?>
                     <div id="box_kienthuc_benhhoc" class="box_common_site">
                         <div class="title_box_common">
                             <h3 class="wap_title_box relative">
                                 <div class="icon_title"><img
-                                            src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_sach.png">
+                                        src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_sach.png">
                                 </div>
                                 <a class="text_title_box"
                                    href="<?php echo $link_cate; ?>"><?php echo $category->name; ?></a>
@@ -128,55 +130,59 @@ get_header(); ?>
 
                         <div class="content_box_common width_common">
                             <div class="row">
-<?php $list_cate = getChildCate(KIENTHUCBENHHOC); if(isset($list_cate)){ foreach($list_cate as $item=>$value){  ?>
-    <?php global $post;
-    $args = array('posts_per_page' => 3, 'order' => 'ASC', 'orderby' => 'title', 'category' => $value);
-    $category = get_term($value, 'category');
-    $link_cate = get_category_parents_custom( $value, true, '' ); ?>
-                                <div class="item_block_2_row">
-                                    <div class="border_bottom_block width_common">
+                                <?php $list_cate = getChildCate(KIENTHUCBENHHOC);
+                                if (isset($list_cate)) {
+                                    foreach ($list_cate as $item => $value) { ?>
+                                        <?php global $post;
+                                        $args = array('posts_per_page' => 3, 'order' => 'ASC', 'orderby' => 'title', 'category' => $value);
+                                        $category = get_term($value, 'category');
+                                        $link_cate = get_category_parents_custom($value, true, ''); ?>
+                                        <div class="item_block_2_row">
+                                            <div class="border_bottom_block width_common">
 
-                                        <div class="block_group_benh width_common">
-                                            <div class="block_thumb_news">
-                                                <a class="thunb_image thumb_1x1" href="#"><img alt=""
-                                                                                               src="<?php echo get_theme_file_uri(); ?>/assets/images/graphics/img_160x160.jpg"></a>
-                                            </div>
-                                            <h2 class="title_group_benh">
-                                                <a href="<?php echo $link_cate; ?>"><?php echo $category->name; ?></a>
-                                            </h2>
-                                        </div>
-                                        <div class="list_news_box width_common">
-
-                                                <?php $postslist = get_posts($args);
-                                                $stt = 0; ?>
-                                                <?php foreach ($postslist as $post) :
-                                                setup_postdata($post);
-                                                ?>
-
-                                                    <div class="block_news width_common">
-                                                        <div class="block_thumb_news">
-                                                            <a class="thunb_image thumb_5x3" href="<?php the_permalink() ?>"><?php the_post_thumbnail() ?></a>
-                                                        </div>
-                                                        <h2 class="title_box_news title_normal">
-                                                            <a href="<?php the_permalink() ?>"><?php the_title() ?></a>
-                                                        </h2>
-
+                                                <div class="block_group_benh width_common">
+                                                    <div class="block_thumb_news">
+                                                        <a class="thunb_image thumb_1x1" href="#"><img alt=""
+                                                                                                       src="<?php echo get_theme_file_uri(); ?>/assets/images/graphics/img_160x160.jpg"></a>
                                                     </div>
-                                            <?php
+                                                    <h2 class="title_group_benh">
+                                                        <a href="<?php echo $link_cate; ?>"><?php echo $category->name; ?></a>
+                                                    </h2>
+                                                </div>
+                                                <div class="list_news_box width_common">
 
-                                            endforeach;
-                                            wp_reset_postdata(); ?>
+                                                    <?php $postslist = get_posts($args);
+                                                    $stt = 0; ?>
+                                                    <?php foreach ($postslist as $post) :
+                                                        setup_postdata($post);
+                                                        ?>
+
+                                                        <div class="block_news width_common">
+                                                            <div class="block_thumb_news">
+                                                                <a class="thunb_image thumb_5x3"
+                                                                   href="<?php the_permalink() ?>"><?php the_post_thumbnail() ?></a>
+                                                            </div>
+                                                            <h2 class="title_box_news title_normal">
+                                                                <a href="<?php the_permalink() ?>"><?php the_title() ?></a>
+                                                            </h2>
+
+                                                        </div>
+                                                        <?php
+
+                                                    endforeach;
+                                                    wp_reset_postdata(); ?>
+                                                </div>
+
+                                                <div class="block_xemthem text-right">
+                                                    <a href="#" class="txt_666"><i class="fa fa-caret-down"></i> Xem
+                                                        thêm</a>
+                                                </div>
+                                            </div>
+                                            <div class="clearfix"></div>
+
                                         </div>
-
-                                        <div class="block_xemthem text-right">
-                                            <a href="#" class="txt_666"><i class="fa fa-caret-down"></i> Xem
-                                                thêm</a>
-                                        </div>
-                                    </div>
-                                    <div class="clearfix"></div>
-
-                                </div>
-    <?php }} ?>
+                                    <?php }
+                                } ?>
 
                             </div>
                         </div>
@@ -192,8 +198,8 @@ get_header(); ?>
                     <div class="title_box">
                         <h3><a href="<?php echo esc_url($category_link); ?>"><?php echo $category->name; ?></a></h3>
                         <div class="icon_title"><img
-                                    src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_dieutri.png"
-                                    alt=""/></div>
+                                src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_dieutri.png"
+                                alt=""/></div>
                     </div>
                     <div class="content_box">
                         <div class="list_news_box_right ">
@@ -232,16 +238,18 @@ get_header(); ?>
                 <div id="box_tuvan" class="item_box_col_right space_bottom_20 width_common">
                     <div class="title_box">
                         <h3><a href="#">Hỏi chuyên gia</a></h3>
-                        <div class="icon_title"><img src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_tuvan.png" alt=""/></div>
+                        <div class="icon_title"><img
+                                src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_tuvan.png" alt=""/>
+                        </div>
                     </div>
 
                     <div class="content_box_common width_common">
                         <div class="list_tuvan width_common">
-                            <?php echo do_shortcode('[dwqa-list-questions]'); ?>
+                            <div class="item_tuvan width_common">
+                                <?php echo do_shortcode('[dwqa-list-questions]'); ?>
+                            </div>
+                            <div class="block_txt_datcauhoi text-center"><a href="<?php echo esc_url(home_url('/tu-van-chia-se')) ?>" class="text-uppercase txt_16 txt_site"><b>đặt câu hỏi</b></a></div>
                         </div>
-                        <div class="block_txt_datcauhoi text-center"><a href="#"
-                                                                        class="text-uppercase txt_16 txt_site"><b>đặt
-                                    câu hỏi</b></a></div>
                     </div>
                 </div>
                 <?php global $post;
@@ -251,13 +259,16 @@ get_header(); ?>
                 <div id="box_video" class="item_box_col_right space_bottom_20 width_common">
                     <div class="title_box">
                         <h3><a href="<?php echo esc_url($category_link); ?>"><?php echo $category->name; ?></a></h3>
-                        <div class="icon_title"><img src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_video.png" alt=""/></div>
+                        <div class="icon_title"><img
+                                src="<?php echo get_theme_file_uri(); ?>/assets/images/icon/ico_video.png" alt=""/>
+                        </div>
                     </div>
                     <div class="content_box_video width_common">
                         <div class="item_video relative">
                             <div class="thumb_video relative">
                                 <div class="thunb_image thumb_5x3"><?php the_post_thumbnail() ?>"
-                                                                        alt=""/></div>
+                                    alt=""/>
+                                </div>
                                 <a href="" class="masking_video1"> </a>
                             </div>
                             <h2 class="title_video"><a href="<?php the_permalink() ?>"><?php the_title() ?></a></h2>

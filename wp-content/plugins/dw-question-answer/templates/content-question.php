@@ -7,36 +7,40 @@
  */
 
 ?>
-<div class="<?php echo dwqa_post_class(); ?>">
-	<div class="dwqa-question-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
-	<div class="dwqa-question-meta">
-		<?php dwqa_question_print_status() ?>
-		<?php
-			global $post;
-			$user_id = get_post_field( 'post_author', get_the_ID() ) ? get_post_field( 'post_author', get_the_ID() ) : false;
-			$time = human_time_diff( get_post_time( 'U', true ) );
-			$text = __( 'asked', 'dwqa' );
-			$latest_answer = dwqa_get_latest_answer();
-			if ( $latest_answer ) {
-				$time = human_time_diff( strtotime( $latest_answer->post_date_gmt ) );
-				$text = __( 'answered', 'dwqa' );
-			}
-		?>
-		<?php printf( __( '<span><a href="%s">%s%s</a> %s %s ago</span>', 'dwqa' ), dwqa_get_author_link( $user_id ), get_avatar( $user_id, 48 ), get_the_author(), $text, $time ) ?>
-		<?php echo get_the_term_list( get_the_ID(), 'dwqa-question_category', '<span class="dwqa-question-category">' . __( '&nbsp;&bull;&nbsp;', 'dwqa' ), ', ', '</span>' ); ?>
-	</div>
-	<div class="dwqa-question-stats">
-		<span class="dwqa-views-count">
-			<?php $views_count = dwqa_question_views_count() ?>
-			<?php printf( __( '<strong>%1$s</strong> views', 'dwqa' ), $views_count ); ?>
-		</span>
-		<span class="dwqa-answers-count">
-			<?php $answers_count = dwqa_question_answers_count(); ?>
-			<?php printf( __( '<strong>%1$s</strong> answers', 'dwqa' ), $answers_count ); ?>
-		</span>
-		<span class="dwqa-votes-count">
-			<?php $vote_count = dwqa_vote_count() ?>
-			<?php printf( __( '<strong>%1$s</strong> votes', 'dwqa' ), $vote_count ); ?>
-		</span>
-	</div>
+<?php
+global $post;
+$user_id = get_post_field('post_author', get_the_ID()) ? get_post_field('post_author', get_the_ID()) : false;
+
+$time = human_time_diff(get_post_time('U', true));
+$text = __('asked', 'dwqa');
+
+$latest_answer = get_comments([
+    'post_id' => get_the_ID()]);
+
+?>
+<div class="item_tuvan width_common">
+    <div class="user_tuvan"><i class="fa fa-question-circle-o" aria-hidden="true"></i> <strong
+                class="txt_666"><?php echo dwqa_the_author(''); ?></strong> - <span
+                class="txt_aaa"><?php the_title(); ?></span></div>
+    <div class="block_question">
+        <?php the_content(); ?>
+    </div>
+    <?php if (!empty($latest_answer)) : ?>
+        <?php
+        $i = 1;
+        foreach ($latest_answer as $item) :?>
+            <div class="block_answear">
+                <i class="fa fa-caret-up"></i>
+                <i> <?php echo($item->comment_content) ?> </i>
+
+                <?php
+                $author = get_the_author_meta('nickname' , 1);
+                ?>
+                <div class="author_answear"><?php echo($author) ?></div>
+            </div>
+            <?php
+            if ($i == 1) break;
+        endforeach; ?>
+    <?php endif; ?>
 </div>
+
