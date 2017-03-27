@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9b0088-92bb-49fe-8e86-8e9a8ad1c2fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_faq.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wpcf7_captcha/586589433.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wpcf7_captcha/586589433.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wpcf7_captcha/747333471.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wpcf7_captcha/747333471.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/archive-question-filter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/archive-question-filter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/archive-question.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/archive-question.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/captcha-form.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/captcha-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/content-question.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/content-question.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/question-submit-form.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/question-submit-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/single-question.php" afterPath="$PROJECT_DIR$/wp-content/plugins/dw-question-answer/templates/single-question.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/category.php" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,8 +78,8 @@
       <file leaf-file-name="template_video.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_video.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1989">
-              <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -376,6 +368,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -446,12 +439,12 @@
       <workItem from="1490431185360" duration="9939000" />
       <workItem from="1490521334169" duration="2107000" />
       <workItem from="1490524009563" duration="5744000" />
-      <workItem from="1490624937769" duration="4230000" />
+      <workItem from="1490624937769" duration="4885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59361000" />
+    <option name="totallyTimeSpent" value="60016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -909,8 +902,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/template_video.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
+        <state relative-caret-position="238">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
           <folding />
         </state>
       </provider>
